@@ -1,8 +1,8 @@
 #ifndef __CONSUMER_SESSION_MANAGER_H__
 #define __CONSUMER_SESSION_MANAGER_H__
 
-#include <com/amazonaws/kinesis/video/utils/Include.h>
-#include <com/amazonaws/kinesis/video/client/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/utils/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/client/Include.h>
 #include <vector>
 #include <map>
 #include "MockConsumer.h"
