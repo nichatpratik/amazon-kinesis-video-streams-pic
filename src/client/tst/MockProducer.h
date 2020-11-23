@@ -1,8 +1,8 @@
 #ifndef __MOCK_PRODUCER_H__
 #define __MOCK_PRODUCER_H__
 
-#include <com/amazonaws/kinesis/video/utils/Include.h>
-#include <com/amazonaws/kinesis/video/client/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/utils/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/client/Include.h>
 
 typedef struct {
     UINT32 mFps;
